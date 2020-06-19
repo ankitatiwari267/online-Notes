@@ -1,5 +1,5 @@
 # Online-Notes
-It a website titled Online Notes in which you can add, delete and update your notes anytime.
+It a Web App titled Online Notes in which you can add, delete and update your notes anytime.
 # Technologies Used
 1. html
 2. css
